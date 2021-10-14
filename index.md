@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
@@ -35,10 +36,7 @@ I work in the field of machine learning and data mining. Currently, I focus on t
 <p><a id="education" name="education" class="anchor"> </a></p>
 <ul>
 <li><p>[2020.09-Now]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D in SEU , <a href="https://www.seu.edu.cn//">SEU</a>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Prof. <a href="https://cse.seu.edu.cn/2019/0103/c23024a257230/pagem.htm/">Weiwei Wu</a>&amp; <a href="https://cse.seu.edu.cn/2020/1029/c23024a351517/pagem.htm/">Yan Lyu </a></p>
-
 </ul>
-
-
 </ol>
 </td>
 </tr>
