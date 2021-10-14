@@ -11,10 +11,8 @@
 <tr valign="top">
 <td id="layout-menu">
 <div class="menu-category">Catalog</div>
-<div class="menu-item"><a href="index.html#news">News</a></div>
 <div class="menu-item"><a href="index.html#researchinterest">Research&nbsp;Interest</a></div>
 <div class="menu-item"><a href="index.html#education">Education</a></div>
-<div class="menu-item"><a href="index.html#pub">Publication</a></div>
 </td>
 <td id="layout-content">
 <div id="toptitle">
