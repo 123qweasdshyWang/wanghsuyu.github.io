@@ -6,7 +6,7 @@
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>Pei Zhang </title>
+<title>Shuyu Wang </title>
 </head>
 <body>
 <table summary="Table for page layout." id="tlayout">
@@ -20,7 +20,7 @@
 </td>
 <td id="layout-content">
 <div id="toptitle">
-<h1>Pei Zhang </h1>
+<h1>Shuyu Wang </h1>
 </div>
 <table class="imgtable"><tr><td>
 <a href="http://jeaninezp.github.io"><img src="https://scholar-1304440691.cos.ap-guangzhou.myqcloud.com/zpp.jpg" alt="^-^" width="170px" height="180px" /></a>&nbsp;</td>
