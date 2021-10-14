@@ -14,7 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
       <p><b>地址：江苏省南京市江宁区东南大学九龙湖校区计算机楼</b></p>
     </td>
     <td width="25%">
-      <img src="/wsy.jpg" width="100%">      % 插入证件照代码
+      <img src="/wsy.jpg" width="100%">  
     </td>
   </tr>
 </table>
