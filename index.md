@@ -24,7 +24,7 @@
 <table class="imgtable"><tr><td>
 <a href="http://wangshuyu.github.io"><img src= alt="^-^" width="170px" height="180px" /></a>&nbsp;</td>
 <td align="left"><p>Ph.D. candidate<br /> </p>
-<p>School of Cyber Science and Engineering, <a href="https://cse.seu.edu.cn/edulab/main.htm/">Key Laboratory of Computer Network and Information Integration, Ministry of Education
+<p>School of Cyber Science and Engineering, <a href="https://www.seu.edu.cn//">Southeast University
 Southeast University</a><br /></p>
 <p>Location: Jiulong Lake Campus of Southeast University, Jiangning District, Nanjing, Jiangsu Province, China <br /> </p>
 <p>E-mail: <i>wangshuyuqq@gmail.com (prior), shywang@seu.edu.cn</i> <br /></p>
