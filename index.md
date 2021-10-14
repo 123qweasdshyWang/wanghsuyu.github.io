@@ -1,5 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
@@ -14,7 +12,6 @@
 <h1>Shuyu Wang </h1>
 </div>
 <table class="imgtable"><tr><td>
-<a href="http://wangshuyu.github.io"><img src= alt="^-^" width="170px" height="180px" /></a>&nbsp;</td>
 <td align="left"><p>Ph.D. candidate<br /> </p>
 <p>School of Cyber Science and Engineering, <a href="https://www.seu.edu.cn//">Southeast University
 Southeast University</a><br /></p>
@@ -33,7 +30,6 @@ I work in the field of machine learning and data mining. Currently, I focus on t
 <li><p>Intelligent Transportation</p>
 </li>
 <li><p>Deep clustering</p>
-
 </ul>
 <h2>Education</h2>
 <p><a id="education" name="education" class="anchor"> </a></p>
