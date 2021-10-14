@@ -1,4 +1,3 @@
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
@@ -56,29 +55,15 @@ I work in the field of machine learning and data mining. Currently, I focus on t
 <h2>Education</h2>
 <p><a id="education" name="education" class="anchor"> </a></p>
 <ul>
-<li><p>[2021.03-Now]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D in PRMI group , <a href="https://english.nudt.edu.cn/">NUDT</a>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Prof. En Zhu &amp; <a href="https://xinwangliu.github.io/">Xinwang Liu</a></p>
+<li><p>[2020.09-Now]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D in SEU , <a href="https://www.seu.edu.cn//">SEU</a>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Prof. <a href="https://cse.seu.edu.cn/2019/0103/c23024a257230/pagem.htm/">Weiwei Wu</a>&amp; <a href="https://cse.seu.edu.cn/2020/1029/c23024a351517/pagem.htm/">Yan Lyu </a></p>
 </li>
 <li><p>[2018.09-2020.12]&nbsp;&nbsp;&nbsp;M.S. in School of Computer, NUDT. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Prof. <a href="https://xinwangliu.github.io/">Xinwang Liu</a> &amp; <a href="http://individual.utoronto.ca/zcai/">Zhiping Cai</a></p>
 </li>
 <li><p>[2014.09-2018.06]&nbsp;&nbsp;&nbsp;B.S. in School of Software, YNU.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor: Prof. <a href="http://blog.sciencenet.cn/home.php?mod=space&amp;uid=629831">Zhijie Zheng</a></p>
 </li>
 </ul>
-<h2>Publication</h2>
-<p><a id="pub" name="pub" class="anchor"> </a></p>
-<p>Journal:
-</p>
-<ol>
-<li><p>Sun Mengjing, Wang Siwei, <b>Zhang Pei</b>, Liu Xinwang, Guo Xifeng, Sihang Zhou, and En
-Zhu. &ldquo;Projective Multiple Kernel Subspace Clustering.&rdquo; <i><b>IEEE Transactions on Multimedia (TMM)</b></i>, (2021). [<a href="https://ieeexplore.ieee.org/abstract/document/9447203">Link</a>]&nbsp;[<a href="https://github.com/MengjingSun/PMKSC-code">Code</a>]</p>
-</li>
-<li><p><b>Zhang, Pei</b>, Xinwang Liu, Jian Xiong, Sihang Zhou, Wentao Zhao, En Zhu, and Zhiping Cai. &ldquo;Consensus One-step Multi-view Subspace Clustering.&rdquo; <i><b>IEEE Transactions on Knowledge and Data Engineering (TKDE)</b></i>, (2020). [<a href="https://ieeexplore.ieee.org/abstract/document/9298842">Link</a>]&nbsp;[<a href="paper/COMVSC.pdf">PDF</a>]&nbsp;[<a href="https://github.com/Jeaninezpp/COMVSC">Code</a>]&nbsp;[<a href="bibtex.html#zhangcomvsc2020">BibTeX</a>]</p>
-</li>
-<li><p><b>Zhang, Pei</b>, Siwei Wang, Jingtao Hu, Zhen Cheng, Xifeng Guo, En Zhu, and Zhiping Cai.
-&ldquo;Adaptive Weighted Graph Fusion Incomplete Multi-View Subspace Clustering.&rdquo; <i><b>Sensors</b></i>, (2020). [<a href="https://www.mdpi.com/1424-8220/20/20/5755">Link</a>]&nbsp;[<a href="paper/sensors.pdf">PDF</a>]&nbsp;[<a href="https://github.com/Jeaninezpp/AWGF-code">Code</a>]</p>
-</li>
-<li><p><b>Zhang, Pei</b>, Xinwang Liu, Jian Xiong, Sihang Zhou, Wentao Zhao, En Zhu, and Zhiping Cai. &ldquo;One-stage Partition-fusion Multi-view Subspace Clustering Algorithm.&rdquo; <i><b>Journal of Frontiers of Computer Science and Technology</b></i>, (2020). [<a href="http://fcst.ceaj.org/CN/10.3778/j.issn.1673-9418.2009070">Link</a>]
-</p>
-</li>
+
+
 </ol>
 </td>
 </tr>
