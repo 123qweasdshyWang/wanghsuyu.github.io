@@ -9,11 +9,6 @@
 <body>
 <table summary="Table for page layout." id="tlayout">
 <tr valign="top">
-<td id="layout-menu">
-<div class="menu-category">Catalog</div>
-<div class="menu-item"><a href="index.html#researchinterest">Research&nbsp;Interest</a></div>
-<div class="menu-item"><a href="index.html#education">Education</a></div>
-</td>
 <td id="layout-content">
 <div id="toptitle">
 <h1>Shuyu Wang </h1>
